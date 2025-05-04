@@ -1,0 +1,10 @@
+torch
+diffusers
+transformers
+grpcio
+grpcio-tools
+Pillow
+protobuf
+pytest
+accelerate
+safetensors
